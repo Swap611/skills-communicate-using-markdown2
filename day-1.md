@@ -1,5 +1,6 @@
 # Daily Learning
 
-## Morning Planing
-
+## Morning Planning
+- [ ] Make a commit in VS Code
+- [ ] Make a commit in terminal
 ## Review
