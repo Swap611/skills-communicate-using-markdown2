@@ -1,7 +1,9 @@
 # Daily Learning
 
 ## Morning Planning
-- [ ] Make a commit in VS Code
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right"> 
+ 
+- [ ] Make a commit on VS Code
 - [ ] Make a commit in terminal
 ## Review
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
